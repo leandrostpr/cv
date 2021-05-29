@@ -7,7 +7,7 @@ Analista II de desenvolvimento de software.
 
 ## Formação
 
-* **Curso superior* <br>
+* **Curso superior** <br>
 *Análise e Desenvolvimento de Sistemas* <br>
 *UNIPAR - Universidade Paranaense* <br>
 2012 - 2014 
